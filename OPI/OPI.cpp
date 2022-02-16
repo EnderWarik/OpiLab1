@@ -5,7 +5,9 @@
 using namespace std;
 int main()
 {
-    cout << "Hi\n";
+    int x, y;
+    cin >> x >> y;
+    cout << x+y;
 }
 
 // Запуск программы: CTRL+F5 или меню "Отладка" > "Запуск без отладки"
