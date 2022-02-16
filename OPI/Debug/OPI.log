@@ -1,0 +1,4 @@
+﻿  OPI.cpp
+C:\Users\Steam\source\repos\OPI\OPI\OPI.cpp(5,17): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "std"
+C:\Users\Steam\source\repos\OPI\OPI\OPI.cpp(7,1): error C2143: синтаксическая ошибка: отсутствие ";" перед "{"
+C:\Users\Steam\source\repos\OPI\OPI\OPI.cpp(7,1): error C2447: {: отсутствует заголовок функции (возможно, используется формальный список старого типа)
