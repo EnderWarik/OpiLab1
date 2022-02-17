@@ -7,7 +7,8 @@ int ma()
     cin >> x >> y;
     cout << x + y;
     cout << "first change";
- 
+    cout << "second change";
+
     return 0;
 
 }
